@@ -1,8 +1,8 @@
 ---
 permalink: /blog/girls-in-suspended-times
+title: Girls in suspended times
 ---
 
-# Girls in suspended times
 
 `^^~` Tamara Kamenszain
 

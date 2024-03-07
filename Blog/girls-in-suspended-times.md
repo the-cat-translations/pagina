@@ -1,6 +1,7 @@
 ---
 permalink: /blog/girls-in-suspended-times
 title: Girls in suspended times
+layout: post
 ---
 
 

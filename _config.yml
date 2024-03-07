@@ -17,12 +17,12 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
-  - {file: "pages/quienes-somos.md", title:"Quienes somos"}
+  - {file: "pages/quienes-somos.md", title: "Quienes somos"}
   - {file: "pages/que-ofrecemos.md", title: "Que ofrecemos"}
   - {file: "pages/manifiesto.md", title: "Manifiesto"}
   - {file: "./pages/portfolio.md", title: "Portfolio"}
   - {title: "Blog"}
-  - {file: "pages/contacto.md",title: "Contacto"}
+  - {url: "/pages/contacto", title: "Contacto"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:thecat.translations@gmail.com"}

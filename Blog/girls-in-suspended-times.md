@@ -1,3 +1,7 @@
+---
+permalink: /blog/girls-in-suspended-times
+---
+
 # Girls in suspended times
 
 `^^~` Tamara Kamenszain

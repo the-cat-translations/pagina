@@ -1,6 +1,6 @@
 title: "THE CAT TRANSLATIONS"
 author: "The Cat"
-description: ""
+description: "Something something"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -15,13 +15,13 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
+  - {file: "index.md"}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:thecat.translations@gmail.com"}
+  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/thecat_translations/"}
+  - {title: Linkedin, icon: linkedin, url: "http://www.linkedin.com/company/the-cat-translations/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

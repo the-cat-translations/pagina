@@ -1,9 +1,8 @@
 ---
 permalink: /blog
 title: Blog
-layout: page
+layout: default
+sitemap: false
 ---
 
-
-
-[Girls in suspended times]({{ site.baseurl }}{% link Blog/girls-in-suspended-times.md %})
+{% include archive.html %}

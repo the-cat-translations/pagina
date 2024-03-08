@@ -1,4 +1,5 @@
 ---
 title: Manifiesto
+layout: page
 ---
 

@@ -1,4 +1,5 @@
 ---
-title: Quienes somos 
+title: Quienes somos
+layout: page
 ---
 

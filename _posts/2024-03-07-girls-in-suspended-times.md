@@ -4,8 +4,7 @@ title: Girls in suspended times
 layout: post
 ---
 
-
-`^^~` Tamara Kamenszain
+by Tamara Kamenszain
 
 ```
 Poetess is a sweet word 
@@ -26,7 +25,7 @@ once again we are left out:
 we didn’t know that poets
 like to become vates
 while to girls in inclusive language 
-the word vata doesn’t ring a bell
+the word "vata" doesn’t ring a bell
 because women don’t write 
 to convince anyone.
 That’s why the poetess we all carry within us
@@ -34,4 +33,6 @@ seeks to come out of the closet right now
 towards a new destiny already written 
 and that at the edge of its own revisited history 
 never got tired of waiting for us.
+
+@thecat_translations ^^~
 ```

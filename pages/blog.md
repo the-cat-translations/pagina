@@ -1,7 +1,7 @@
 ---
 permalink: /blog
 title: Blog
-layout: default
+layout: page
 sitemap: false
 ---
 

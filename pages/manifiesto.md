@@ -18,10 +18,8 @@ layout: page
 
 ⌃⌃~ Tomamos nuestro trabajo en serio. Consideramos tus intereses y requisitos para satisfacer tus necesidades. 
 
-​
 
-​
 
-Si el gato está ronroneando,
+**Si el gato está ronroneando,**
 
-¡vamos por buen camino!
+**¡vamos por buen camino!**

@@ -7,11 +7,19 @@ layout: page
 
 Subtitulado de charlas ES-EN
 
-[Programar (casi) sin condicionales](https://www.youtube.com/watch?v=ioeMeQNEgL8)
+- [Programar (casi) sin condicionales](https://www.youtube.com/watch?v=ioeMeQNEgL8)
+
+- [Une para todes y todes para une](https://www.youtube.com/watch?v=vPimduOkpdY)
+
+- [¿Code Smells? y eso… ¿con qué se come?](https://www.youtube.com/watch?v=y1qzHr-uBwQ)
+
+- [Conozco un grupo de objetos que resuelven problemas](https://www.youtube.com/watch?v=kyrDRjW3-xY)
+
+- [¿Cómo funcionan los Widgets de Jupyter? ](https://www.youtube.com/watch?v=qqLrHzNaD28)
 
 ---
 
-**POEMARIO BILINGÜE | LITORAL DARK** (en curso)
+**POEMARIO BILINGÜE ~ LITORAL DARK** (en curso)
 
 Lanzamiento editorial 2024
 

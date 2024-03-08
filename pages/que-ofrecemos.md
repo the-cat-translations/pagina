@@ -5,9 +5,6 @@ layout: page
 
 ---
 
-**NUESTROS SERVICIOS**
-
-
 TRADUCCIÓN
 
 TRANSCRIPCIÓN

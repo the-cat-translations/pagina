@@ -5,14 +5,14 @@ layout: page
 
 **PYCONAR Y PYTHON ARGENTINA MEETUP**
 
-Subtitulado de charlas ES-EN.
+Subtitulado de charlas ES-EN
 
-Programar (casi) sin condicionales.
+[Programar (casi) sin condicionales](https://www.youtube.com/watch?v=ioeMeQNEgL8)
 
 ---
 
-**POEMARIO BILINGÜE| LITORAL DARK** (en curso)
+**POEMARIO BILINGÜE | LITORAL DARK** (en curso)
 
-Lanzamiento editorial 2024.
+Lanzamiento editorial 2024
 
-Traducción ES-EN.
+Traducción ES-EN

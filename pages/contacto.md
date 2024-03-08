@@ -8,6 +8,5 @@ layout: page
 
 ---
 
-**SOLICITÁ UN PRESUPUESTO**
 
-[Completá el formulario](https://docs.google.com/forms/d/1puVpqVGbPVto9OzU0LT09KcnwzEC8yKUvR5mV3EpPtw/edit?usp=forms_home&ths=true&pli=1)
+[**Solictá un presupuesto**](https://docs.google.com/forms/d/1puVpqVGbPVto9OzU0LT09KcnwzEC8yKUvR5mV3EpPtw/edit?usp=forms_home&ths=true&pli=1)

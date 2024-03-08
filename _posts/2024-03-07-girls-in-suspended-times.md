@@ -25,7 +25,7 @@ once again we are left out:
 we didn’t know that poets
 like to become vates
 while to girls in inclusive language 
-the word "vata" doesn’t ring a bell
+the word vatess doesn’t ring a bell
 because women don’t write 
 to convince anyone.
 That’s why the poetess we all carry within us

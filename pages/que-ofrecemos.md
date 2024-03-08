@@ -3,7 +3,7 @@ title: Qué ofrecemos
 layout: page
 ---
 
-NUESTROS SERVICIOS
+**NUESTROS SERVICIOS**
 
 ---
 

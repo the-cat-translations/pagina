@@ -3,7 +3,7 @@ title: Quiénes somos
 layout: page
 ---
 
-MARÍA BELÉN ANELLI (ella) 
+**MARÍA BELÉN ANELLI** (ella) 
 
 tiene una formación en Literatura de la Universidad de Buenos Aires. María es cofundadora de Litoral Dark, una editorial independiente argentina.
 
@@ -11,7 +11,7 @@ La experiencia de María se extiende a la edición y a los campos audiovisuales,
 
 ---
 
-MICAELA MARTÍNEZ (ella) 
+**MICAELA MARTÍNEZ** (ella) 
 
 tiene un título en Relaciones Laborales de la Universidad de Buenos Aires y un título de enseñanza.
 

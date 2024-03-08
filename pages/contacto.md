@@ -4,12 +4,12 @@ layout: page
 ---
 
 
-CONTACTANOS
+**CONTACTANOS**
 
 thecat.translations@gmail.com
 
 ---
 
-SOLICITÁ UN PRESUPUESTO
+**SOLICITÁ UN PRESUPUESTO**
 
 Completá el formulario

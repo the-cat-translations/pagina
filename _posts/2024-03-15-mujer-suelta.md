@@ -38,7 +38,7 @@ El crujido del rumor
 como crinolina.
 
 Soy la mujer de mito y mierda.
-(Es cierto. Cree parte de eso.)
+(Es cierto. Yo cree parte de eso.)
 Construí mi casita de mala fama.
 Ladrillo por ladrillo. La trabajé,
 amé y fortalecí.

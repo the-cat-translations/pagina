@@ -19,8 +19,3 @@ Subtitulado de charlas ES-EN
 
 ---
 
-**POEMARIO BILINGÜE ~ LITORAL DARK** (en curso)
-
-Lanzamiento editorial 2024
-
-Traducción ES-EN

@@ -14,7 +14,7 @@ La experiencia de María se extiende a la edición y a los campos audiovisuales,
 
 **MICAELA MARTÍNEZ** (ella) 
 
-tiene un título en Relaciones Laborales de la Universidad de Buenos Aires y un título de enseñanza.
+tiene un título en Relaciones del Trabajo de la Universidad de Buenos Aires y un título de enseñanza.
 
-Micaela es una profesional experimentada en comunicación bilingüe. Su destreza académica, combinada con su experiencia en empresas multinacionales,la ha formado con las habilidades para desplazarse por diversos idiomas y culturas.
+Micaela es una profesional experimentada en comunicación bilingüe. Su destreza académica, combinada con su experiencia en empresas multinacionales, la ha formado con las habilidades para desplazarse por diversos idiomas y culturas.
 

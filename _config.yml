@@ -1,4 +1,4 @@
-title: "THE CAT | TRADUCCIONES"
+# title: "THE CAT | TRADUCCIONES"
 author: "The Cat"
 # description: "ES<>EN | Traducción Audiovisual y Literaria | Edición, Subtitulado y Corrección"
 permalink: /:title/
@@ -11,17 +11,6 @@ date_format: "%B %d, %Y"
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: true       # show a sidebar instead of the usual header
-
-# Menu
-
-# navigation:                # accepts {file, title, url, icon, sidebaricon}
-#   - {file: "index.md", title: "^^~"}
-#   - {url: "/quienes-somos", title: "Quiénes somos"}
-#   - {url: "/que-ofrecemos", title: "Qué ofrecemos"}
-#   - {url: "/manifiesto", title: "Manifiesto"}
-#   - {url: "/portfolio", title: "Portfolio"}
-#   - {url: "/blog", title: "Blog"}
-#   - {url: "/contacto", title: "Contacto"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:thecat.translations@gmail.com"}

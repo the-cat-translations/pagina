@@ -23,14 +23,14 @@
 {% if site.comments.isso_domain and page.layout == "post" %}<script data-isso="http://{{ site.comments.isso_domain }}" src="//{{ site.comments.isso_domain }}/js/embed.min.js"></script>{% endif %}
 {% if site.show_sidebar or site.sidebar %}{% include sidebar.html %}{% endif %}
 
-{% if site.navigation %}
-  {% assign pages = site.navigation %}
+{% if site.translations[site.lang].navigation %}
+  {% assign pages = site.translations[site.lang].navigation %}
 {% else %}
   {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
 
 <header>
-  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
+  <a href="{{ "/" | relative_url }}" class="title">{% t site.name %}</a>
   {% include menu.html menu=pages %}
 </header>
 
@@ -38,7 +38,7 @@
 
 {% if site.external %}
 <footer>
-  <div>{{ site.description | default: site.title }}</div>
+  <div>{% t site.description %}</div>
   {% include menu.html menu=site.external %}
 
   <a class="active" href="#">{{ site.languageNames[site.lang] }}</a>

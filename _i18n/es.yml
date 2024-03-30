@@ -1,20 +1,14 @@
 site:
-  name: My Example Website
+  name: "THE CAT | TRADUCCIONES"
   tagline: Setting a good example!
   description: "ES<>EN | Traducción Audiovisual y Literaria | Edición, Subtitulado y Corrección"
   keywords: example, website, amazing
-  navigation:                # accepts {file, title, url, icon, sidebaricon}
-    - {url: "/", title: "^^~"}
-    - {url: "/quienes-somos", title: "Who we are"}
-    - {url: "/que-ofrecemos", title: "Qué ofrecemos"}
-    - {url: "/manifiesto", title: "Manifiest"}
-    - {url: "/portfolio", title: "Portfolio"}
-    - {url: "/blog", title: "Blog"}
-    - {url: "/contacto", title: "Contact"}
 
-main:
-  welcomeSection:
-    anchor: welcome
-    heading: Welcome to this marvelous webseite.
-    p1: Hundreds of thousands of people are amazed by this site. Are you?
-
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {url: "/inicio", title: "^^~"}
+  - {url: "/quienes-somos", title: "Quiénes somos"}
+  - {url: "/que-ofrecemos", title: "Qué ofrecemos"}
+  - {url: "/manifiesto", title: "Manifiesto"}
+  - {url: "/portafolio", title: "Portfolio"}
+  - {url: "/blog", title: "Blog"}
+  - {url: "/contacto", title: "Contacto"}

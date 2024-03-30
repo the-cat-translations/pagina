@@ -1,7 +1,7 @@
 ---
 title: Qué ofrecemos
 layout: page
-namespace: oferta
+namespace: que-ofrecemos
 permalink: /que-ofrecemos/
 permalink_en: /offer/
 ---

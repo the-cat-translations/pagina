@@ -1,9 +1,9 @@
 ---
 title: Contacto
 layout: page
-# namespace: about
+namespace: contacto
 permalink: /contacto/
-permalink_en: /contact-us/
+permalink_en: /contact/
 ---
 
 {% tf contacto.md %}

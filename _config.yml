@@ -1,8 +1,8 @@
 title: "THE CAT | TRADUCCIONES"
 author: "The Cat"
-description: "ES<>EN | Traducción Audiovisual y Literaria | Edición, Subtitulado y Corrección"
+# description: "ES<>EN | Traducción Audiovisual y Literaria | Edición, Subtitulado y Corrección"
 permalink: /:title/
-lang: "en"
+lang: "es"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
@@ -14,14 +14,14 @@ show_sidebar: true       # show a sidebar instead of the usual header
 
 # Menu
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "^^~"}
-  - {url: "/pages/quienes-somos", title: "Quiénes somos"}
-  - {url: "/pages/que-ofrecemos", title: "Qué ofrecemos"}
-  - {url: "/pages/manifiesto", title: "Manifiesto"}
-  - {url: "/pages/portfolio", title: "Portfolio"}
-  - {url: "/blog", title: "Blog"}
-  - {url: "/pages/contacto", title: "Contacto"}
+# navigation:                # accepts {file, title, url, icon, sidebaricon}
+#   - {file: "index.md", title: "^^~"}
+#   - {url: "/quienes-somos", title: "Quiénes somos"}
+#   - {url: "/que-ofrecemos", title: "Qué ofrecemos"}
+#   - {url: "/manifiesto", title: "Manifiesto"}
+#   - {url: "/portfolio", title: "Portfolio"}
+#   - {url: "/blog", title: "Blog"}
+#   - {url: "/contacto", title: "Contacto"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:thecat.translations@gmail.com"}
@@ -34,6 +34,17 @@ comments:
 
 # remote_theme: niklasbuschmann/contrast@v2.11
 
+# Idiomas
+baseurl: "" # https://github.com/kurtsson/jekyll-multiple-languages-plugin/issues/96
+languages: ["es","en"]
+exclude_from_localizations: ["javascript", "images", "css"]
+defaultLang: es
+languageNames:
+  es: Español
+  en: English
+
+
 plugins:
  - jekyll-feed
+ - jekyll-multiple-languages-plugin
 #  - jekyll-remote-theme

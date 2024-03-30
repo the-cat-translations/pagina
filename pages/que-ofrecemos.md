@@ -1,18 +1,10 @@
 ---
 title: Qué ofrecemos
 layout: page
+namespace: oferta
+permalink: /que-ofrecemos/
+permalink_en: /offer/
 ---
 
----
 
-TRADUCCIÓN
-
-TRANSCRIPCIÓN
-
-SUBTITULADO
-
-REVISIÓN DE TEXTO
-
-EDICIÓN
-
-CORRECCIÓN
+{% tf que-ofrecemos.md %}

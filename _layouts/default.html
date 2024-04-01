@@ -31,25 +31,23 @@
 
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{% t site.name %}</a>
+  <div class="language-buttons">
+    <!-- <a class="active" href="#">{{ site.languageNames[site.lang] }}</a> -->
+    {% for lang in site.languageNames %}
+    {% if lang[0] == site.lang %} {% continue %} {% endif %}
+    <a href="{% tl {{ page.namespace }} {{ lang[0] }} %}">{{ lang[1] }}</a>
+    {% endfor %}
+  </div>
   {% include menu.html menu=pages %}
 </header>
 
 {{ content }}
 
+
 {% if site.external %}
 <footer>
   <div>{% t site.description %}</div>
   {% include menu.html menu=site.external %}
-
-  <a class="active" href="#">{{ site.languageNames[site.lang] }}</a>
-  {% for lang in site.languageNames %}
-  {% if lang[0] == site.lang %} {% continue %} {% endif %}
-  {% if page.namespace %}
-  <a href="{% tl {{ page.namespace }} {{ lang[0] }} %}">{{ lang[1] }}</a>
-  {% else %}
-  <a href="{{ site.baseurl_root }}/{{ lang[0] }}/">{{ lang[1] }}</a>
-  {% endif %}
-  {% endfor %}
 </footer>
 {% endif %}
 

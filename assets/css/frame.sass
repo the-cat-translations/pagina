@@ -14,6 +14,7 @@ body > header, body > footer
   background: lighten($dark, 5%)
   color: $light
 
+
 @media (min-width: 32em)
   body > header, body > article, body > footer
     padding: 1.75em calc(22% - 6em)
@@ -25,3 +26,19 @@ body > header, body > footer
     background: $dark
   body, body > header, body > footer
     box-shadow: 0 0 0 1px lighten($dark, 8%)
+
+
+.language-buttons
+    position: relative
+    top: 0em
+    right: 0em
+    z-index: 999 // Ensure buttons are always on top
+    
+    a
+      background: $light
+      color: lighten($dark, 8%)
+      border: none
+      border-radius: 5px
+      padding: 5px 10px
+      margin-left: 5px
+      text-decoration: none

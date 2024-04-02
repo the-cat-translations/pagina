@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Cat</title>
+<style>
+  body {
+    background-color: #fff;
+    color: #000;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    position: relative; /* Set position to relative for the buttons to be positioned absolutely */
+  }
+  .container {
+    margin-top: 100px;
+  }
+  h1 {
+    font-size: 36px;
+  }
+  .logo-container {
+    margin-bottom: 20px;
+    width: 50%;
+    max-width: 200px; /* Limiting maximum size to 200px */
+    margin: auto; /* Centering horizontally */
+    overflow: hidden; /* Hides the part of the image outside the container */
+    border-radius: 50%; /* Makes a round mask */
+    border: 2px solid #000; /* Optional border */
+  }
+  .logo-container img {
+    width: 100%; /* Ensures the image fills the container */
+    border-radius: 50%; /* Makes a round mask */
+    cursor: pointer; /* Change cursor to pointer on hover */
+  }
+  .language-buttons {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 999; /* Ensure buttons are always on top */
+  }
+  .language-buttons a {
+    background-color: #fff;
+    color: #000;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-left: 5px;
+    text-decoration: none;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="logo-container">
+    <a href="/">
+      <img src="/assets/imagenes/LOGO4.png" alt="Logo">
+    </a>
+  </div>
+  <div class="language-buttons">
+    <a href="/en/home">EN</a>
+    <a href="/inicio">ES</a>
+  </div>
+</div>
+</body>
+</html>

@@ -2,7 +2,7 @@
 permalink: /blog
 layout: page
 sitemap: false
-title: blog
+title: pages.blog
 ---
 
 {% include archive.html %}

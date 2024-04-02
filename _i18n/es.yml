@@ -13,6 +13,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 pages:
   contacto: Contacto
+  blog: Blog
   home: ^^~
   manifiesto: Manifiesto
   portfolio: Portfolio

@@ -1,0 +1,21 @@
+site:
+  name: "THE CAT | TRANSLATIONS"
+  description: EN<>SP | Audiovisual and Literary Translation | Editing, Subtitling and Correction
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {url: "/home", title: "^^~"}
+  - {url: "/about-us", title: "About us"}
+  - {url: "/services", title: "Our services"}
+  - {url: "/manifesto-en", title: "Manifesto"}
+  - {url: "/portfolio-en", title: "Portfolio"}
+  - {url: "/blog", title: "Blog"}
+  - {url: "/contact", title: "Contact us"}
+
+pages:
+  contacto: Contact us
+  home: ^^~
+  manifiesto: Manifesto
+  portfolio: Portfolio
+  que-ofrecemos: Our services
+  quienes-somos: About us
+  portfolio: Portfolio

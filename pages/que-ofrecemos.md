@@ -1,18 +1,9 @@
 ---
-title: Qué ofrecemos
+title: pages.que-ofrecemos
 layout: page
+namespace: que-ofrecemos
+permalink: /que-ofrecemos/
+permalink_en: /services/
 ---
 
----
-
-TRADUCCIÓN
-
-TRANSCRIPCIÓN
-
-SUBTITULADO
-
-REVISIÓN DE TEXTO
-
-EDICIÓN
-
-CORRECCIÓN
+{% tf que-ofrecemos.md %}

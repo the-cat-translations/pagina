@@ -1,12 +1,9 @@
 ---
-title: Contacto
+title: pages.contacto
 layout: page
+namespace: contacto
+permalink: /contacto/
+permalink_en: /contact/
 ---
 
-
-[thecat.translations@gmail.com](mailto:thecat.translations@gmail.com)
-
----
-
-
-[**Solicitá un presupuesto**](https://docs.google.com/forms/d/1puVpqVGbPVto9OzU0LT09KcnwzEC8yKUvR5mV3EpPtw/edit?usp=forms_home&ths=true&pli=1)
+{% tf contacto.md %}

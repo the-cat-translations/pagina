@@ -1,5 +1,5 @@
 ---
-title: Qué ofrecemos
+title: pages.que-ofrecemos
 layout: page
 namespace: que-ofrecemos
 permalink: /que-ofrecemos/

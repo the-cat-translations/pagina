@@ -1,4 +1,4 @@
-### WELCOME TO **THE CAT TRANSLATIONS**
+### WELCOME TO **THE CAT**
 
 We are María Belén and Micaela, a dynamic duo of professionals and cat lovers. 
 

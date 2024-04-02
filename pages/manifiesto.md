@@ -1,5 +1,5 @@
 ---
-title: Manifiesto
+title: pages.manifiesto
 layout: page
 namespace: manifiesto
 permalink: /manifiesto/

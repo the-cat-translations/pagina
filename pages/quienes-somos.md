@@ -1,5 +1,5 @@
 ---
-title: Quiénes somos
+title: pages.quienes-somos
 layout: page
 namespace: quienes-somos
 permalink: /quienes-somos/

@@ -10,3 +10,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "/portfolio", title: "Portfolio"}
   - {url: "/blog", title: "Blog"}
   - {url: "/contacto", title: "Contacto"}
+
+pages:
+  contacto: Contacto
+  home: ^^~
+  manifiesto: Manifiesto
+  portfolio: Portfolio
+  que-ofrecemos: Qué ofrecemos
+  quienes-somos: Quiénes somos

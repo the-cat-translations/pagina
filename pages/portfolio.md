@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: pages.portfolio
 layout: page
 namespace: portfolio
 permalink: /portfolio/

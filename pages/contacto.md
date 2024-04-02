@@ -1,5 +1,5 @@
 ---
-title: Contacto
+title: pages.contacto
 layout: page
 namespace: contacto
 permalink: /contacto/

@@ -1,4 +1,4 @@
-### ¡BIENVENIDXS A **THE CAT TRADUCCIONES**!
+### BIENVENIDXS A **THE CAT TRADUCCIONES**
 
 Somos María Belén y Micaela.
 

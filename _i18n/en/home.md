@@ -1,7 +1,7 @@
-### ¡WELCOME A **THE CAT TRADUCCIONES**!
+### WELCOME TO **THE CAT TRANSLATIONS**
 
-Somos María Belén y Micaela.
+We are María Belén and Micaela, a dynamic duo of professionals and cat lovers. 
 
-Nuestra pasión e interés en los ámbitos audiovisuales y literarios llevó a que nos juntáramos.
+Our passion and interest in audiovisual and literary fields has brought us together. 
 
-Nuestra formación académica y experiencias nos hacen contar con amplias habilidades y un enfoque significativo para satisfacer diversas necesidades de traducción.
+Our academic backgrounds and experiences have given us a broad set of skills and a meaningful approach to meet diverse translation needs. 

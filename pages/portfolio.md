@@ -1,9 +1,9 @@
 ---
 title: Portfolio
 layout: page
-namespace: portafolio
-permalink: /portafolio/
-permalink_en: /portfolio/
+namespace: portfolio
+permalink: /portfolio/
+permalink_en: /portfolio-en/
 ---
 
 {% tf portfolio.md %}

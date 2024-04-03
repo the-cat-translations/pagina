@@ -6,17 +6,17 @@ layout: post
 
 by Emma Barrandéguy
 
-```
+<pre class="highlight">
 “From here on, the green wave continues”.
 As long as we don’t know what this sign means,
 as long as we don’t know,
 we are going to think of the green wave
-of the _talas_ and the _ceibos_ from the province,
+of the <i>talas</i> and the <i>ceibos</i> from the province,
 in the green wave of the flax fields,
 in the green wave of the wetland in summer, 
 in the misleading green of the marshes.
 As long as we don’t know.
-Perhaps the green wave that begins in _Pueyrredón_
+Perhaps the green wave that begins in Pueyrredón
 means a row of traffic lights
 giving a faster way to cars,
 maybe the fierce buses run
@@ -41,4 +41,4 @@ in drops of petroleum among rage and violence.
 
 @thecat_translations ^^~
 
-```
+</pre>

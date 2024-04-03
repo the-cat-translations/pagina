@@ -1,4 +1,4 @@
---
+---
 permalink: /blog/the-green-wave
 title: The green wave
 layout: post

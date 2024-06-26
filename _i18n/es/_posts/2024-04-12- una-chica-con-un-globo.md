@@ -12,7 +12,7 @@ de Rebecca Elson
 Desde aquí, el universo
 en su era industrial,
 con todas las estrellas encendidas
-rugiendo, estallando, escupiendo
+rugiendo, estallando, escupiendo,
 su ceniza negra asentándose
 en cada forma de vida,
 

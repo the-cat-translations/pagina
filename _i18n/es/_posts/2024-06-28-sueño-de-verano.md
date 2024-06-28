@@ -1,3 +1,4 @@
+---
 permalink: /blog/sueño-de-verano
 title: Sueño de verano
 layout: post
@@ -6,7 +7,7 @@ layout: post
 de Noah Falck
 
 <pre class="highlight">
-<i></i>
+
 Él se recuesta 
 como si hubiese terminado antes de empezar.
 

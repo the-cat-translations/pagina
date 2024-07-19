@@ -6,10 +6,7 @@ layout: post
 
 de Amy Kay
 
-<pre class="highlight">
-
-Cuatro amigxs se ponen al día mientras comen pasta
-
+<pre class="highlight"> 
 estoy mejor / tienen que hacer más estudios /
 nos vamos a mudar juntxs / nunca más salgo 
 con nadie / ¿cómo está tu viejo? / ¿cómo está 
@@ -21,7 +18,6 @@ ovejas / y ¿cabras? / sí, y bailar / lxs
 extrañé / pasó demasiado tiempo / esto está
 increíble–la salsa, la ensalada / esta noche / 
 todo.
-
 
 
 @thecat_translations ^^~

@@ -7,7 +7,6 @@ layout: post
 de Diane Mehta
 
 ```
-Torta de ciruela
 Iba a hacer una torta de ciruela cuando ella muriera, 
 un lamento quema-penas, Kadish en la sangre-receta,
 todos sus colores estallando; una dulce versión de su amor.

@@ -10,13 +10,13 @@ date_format: "%B %d, %Y"
 
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true       # show a sidebar instead of the usual header
+show_sidebar: false       # show a sidebar instead of the usual header
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:thecat.translations@gmail.com"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/thecat_translations/"}
-  - {title: Linkedin, icon: linkedin, url: "http://www.linkedin.com/company/the-cat-translations/"}
-
+  - {title: LinkedIn, icon: linkedin, url: "http://www.linkedin.com/company/the-cat-translations/"}
+  - {title: YouTube, icon: youtube, url: "https://www.youtube.com/channel/UCMxaKcXrs1UywvEG6DGA1dg"}
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/

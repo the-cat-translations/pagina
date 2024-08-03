@@ -1,4 +1,4 @@
-[thecat.translations@gmail.com](mailto:thecat.translations@gmail.com)
+[info@thecat.ar](mailto:info@thecat.ar)
 
 ---
 

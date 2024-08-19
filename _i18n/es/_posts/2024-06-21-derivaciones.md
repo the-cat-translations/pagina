@@ -1,5 +1,5 @@
 ---
-permalink: /blog/sderivaciones
+permalink: /blog/derivaciones
 title: Derivaciones
 layout: post
 ---

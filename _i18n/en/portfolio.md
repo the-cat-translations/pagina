@@ -1,3 +1,15 @@
+**ULU BY KAI GASPAR** - In process
+
+Poetry book translation EN-SP
+
+---
+
+**DUCHITA BY LOLA GRANILLO**
+
+Short film subtitling SP-EN
+
+---
+
 **PYCONAR & PYTHON ARGENTINA MEETUP**
 
 Talks subtitles SP-EN

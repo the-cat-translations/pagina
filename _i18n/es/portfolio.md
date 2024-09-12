@@ -1,3 +1,16 @@
+
+**ULU DE KAI GASPAR** - En proceso
+
+Traducción de poemario EN-ES
+
+---
+
+**DUCHITA DE LOLA GRANILLO**
+
+Subtitulado de cortometraje ES-EN
+
+---
+
 **PYCONAR Y PYTHON ARGENTINA MEETUP**
 
 Subtitulado de charlas ES-EN
@@ -12,16 +25,5 @@ Subtitulado de charlas ES-EN
 
 - [¿Cómo funcionan los Widgets de Jupyter? ](https://www.youtube.com/watch?v=qqLrHzNaD28)
 
----
-
-**DUCHITA DE LOLA GRANILLO**
-
-Subtitulado de cortometraje ES-EN
-
----
-
-**ULU DE KAI GASPAR** - En proceso
-
-Traducción de poemario EN-ES
 
 ---

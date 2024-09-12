@@ -7,8 +7,8 @@ layout: post
 de Mag Gabbert
 
 <pre class="highlight">
- 
- Elegí uno: presente o regalo.
+<i></i>
+Elegí uno: presente o regalo.
 
 
 ¿Será que acabo de hacer una pregunta?

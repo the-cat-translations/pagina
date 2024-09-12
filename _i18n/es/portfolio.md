@@ -14,3 +14,14 @@ Subtitulado de charlas ES-EN
 
 ---
 
+**DUCHITA DE LOLA GRANILLO**
+
+Subtitulado de cortometraje ES-EN
+
+---
+
+**ULU DE KAI GASPAR** - En proceso
+
+Traducción de poemario EN-ES
+
+---

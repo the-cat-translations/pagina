@@ -25,7 +25,8 @@ Elegí uno: presente o regalo.
 
 ¿Podés soñar?
 
-Estos son tus ingredientes: zapatillas para la nieve, una estrella de leopardo, campos de pastos largos como pelos, cabellos llenos de olas, un cuerpo de trabajo. ¿Qué harías con esto?
+Estos son tus ingredientes: zapatillas para la nieve, una estrella de leopardo, campos de pastos 
+largos como pelos, cabellos llenos de olas, un cuerpo de trabajo. ¿Qué harías con esto?
 
 ¿Por qué la gente se desnuda cuando se está muriendo de frío?
 
@@ -37,7 +38,9 @@ Decí algo tan hermoso que nadie pueda creerlo.
 
 
 
-El test de Turing, de una forma simplificada, consiste en preguntas que uno haría para darse cuenta si se habla con un humano o una máquina.
+El test de Turing, de una forma simplificada, 
+consiste en preguntas que uno haría para darse 
+cuenta si se habla con un humano o una máquina.
 
 
 </pre>

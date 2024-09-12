@@ -7,7 +7,6 @@ layout: post
 de Mag Gabbert
 
 <pre class="highlight">
-<i></i>
  
  Elegí uno: presente o regalo.
 
@@ -47,6 +46,7 @@ Decí algo tan hermoso que nadie pueda creerlo.
 
 
 @thecat_translations ^^~
+
 
 (El test de Turing, de una forma simplificada, consiste en preguntas que uno haría para darse cuenta si se habla con un humano o una máquina.)
 

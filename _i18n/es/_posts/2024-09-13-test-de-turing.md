@@ -7,7 +7,6 @@ layout: post
 de Mag Gabbert
 
 <pre class="highlight">
-<i></i>
 Elegí uno: presente o regalo.
 
 

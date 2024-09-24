@@ -1,7 +1,6 @@
 ---
 permalink: /blog/cuando-se-le-informa-que-no-es-un-trabajo-real-o-La-sirena-que-ve-un-tigre-arriba-de-un-barco-y-crea-una-metáfora
-title: Cuando se le informa que no es un trabajo real o La sirena que ve un tigre 
-arriba de un barco y crea una metáfora
+title: Cuando se le informa que no es un trabajo real o La sirena que ve un tigre arriba de un barco y crea una metáfora
 layout: post
 ---
 

@@ -34,7 +34,7 @@ levantando la voz al final de cada
 frase tragada ¿Y si jugamos al juego del silencio?
 sugería en los viajes largos en auto
 a Hershey o a algún partido de fútbol 
-de Kate, y entones podíamos escuchar todos
+de Kate, y entonces podíamos escuchar todos
 el susurro desde el portavasos 
 cuando la loma encharcaba la tapa
 y ella llevaba el desborde a sus labios.

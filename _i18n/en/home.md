@@ -1,7 +1,10 @@
-### WELCOME TO **THE CAT**
+### **WHY CHOOSE US?**
 
-We are María Belén and Micaela, a dynamic duo of professionals and cat lovers. 
+*Commitment to Art*: We understand the language of art and work to amplify its impact.
 
-Our passion and interest in audiovisual and literary fields has brought us together. 
+*Expertise in Creative Narratives*: From intimate poetry to screen dialogues, we excel in adaptations that evoke emotion.
 
-Our academic backgrounds and experiences have given us a broad set of skills and a meaningful approach to meet diverse translation needs. 
+*Support for Emerging Talent*: We love collaborating with new artists, publishers, and independent producers.
+
+*Global Reach*: We work with international audiences and teams, connecting ideas beyond borders.
+

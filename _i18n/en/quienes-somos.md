@@ -5,6 +5,8 @@ We are a team passionate about words, stories, and art. We specialize in providi
 
 We believe in the power of creativity and artistic expression as vehicles for cultural transformation. That’s why we work hand-in-hand with artists, writers, filmmakers, independent publishers, and production companies to bring unique and authentic projects to life.
 
+---
+
 **MARÍA BELÉN ANELLI** (she) 
 
 has a background in Literature from University of Buenos Aires.

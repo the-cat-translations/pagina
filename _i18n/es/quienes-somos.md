@@ -8,6 +8,8 @@ Somos un equipo apasionado por las palabras, las historias y el arte. Nos especi
 
 Creemos en el poder de la creatividad y la expresión artística como vehículos de transformación cultural. Por eso, trabajamos mano a mano con artistas, escritores, cineastas, editoriales independientes y productoras para dar vida a proyectos únicos y auténticos.
 
+---
+
 **MARÍA BELÉN ANELLI** (ella) 
 
 tiene una formación en Literatura de la Universidad de Buenos Aires. María es cofundadora de Litoral Dark, una editorial independiente argentina.

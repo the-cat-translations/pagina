@@ -2,8 +2,10 @@
 
 At *The Cat*, we specialize in literary and audiovisual translation, bringing works from untranslated authors to Spanish and connecting cultures through words.
 
+---
 
 Here’s what you’ll find in each section...
+
 
 
 **About us** - Meet the team behind *The Cat*.

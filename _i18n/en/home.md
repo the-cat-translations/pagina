@@ -1,6 +1,6 @@
 **Welcome to The Cat Translations**
 
-At *The Cat*, we specialize in literary and audiovisual translation, bringing works from untranslated authors to Spanish and connecting cultures through words.
+At *The Cat*, we specialize in literary and audiovisual translation, bringing untranslated authors into Spanish and connecting cultures through words.
 
 ---
 

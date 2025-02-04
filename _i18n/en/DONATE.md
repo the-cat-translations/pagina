@@ -2,7 +2,7 @@
 
 ---
 
-At *The Cat Translations* and the Argentine publisher *Litoral Dark* we are launching our first translation and publishing project: an independent, self-managed edition to bring the work of a remarkable american contemporary poet to Spanish-speaking readers.
+At *The Cat Translations* and the Argentine publisher *Litoral Dark* we are launching our first translation and publishing project: an independent, self-managed edition to bring the work of a remarkable contemporary poet to Spanish-speaking readers.
 
 Your support will make this translation possible, covering rights, editing, design, and printing.
 

@@ -3,9 +3,8 @@ site:
   description: "ES<>EN | Traducción Audiovisual y Literaria | Edición, Subtitulado y Corrección"
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "/inicio", title: "^^~"}
-  - {url: "/quienes-somos", title: "Quiénes somos"}
-  - {url: "/que-ofrecemos", title: "Qué ofrecemos"}
+  - {url: "/quienes-somos", title: "Nosotras"}
+  - {url: "/que-ofrecemos", title: "Servicios"}
   - {url: "/manifiesto", title: "Manifiesto"}
   - {url: "/portfolio", title: "Portfolio"}
   - {url: "/blog", title: "Blog"}
@@ -18,6 +17,6 @@ pages:
   home: ^^~
   manifiesto: Manifiesto
   portfolio: Portfolio
-  que-ofrecemos: Qué ofrecemos
-  quienes-somos: Quiénes somos
+  que-ofrecemos: Servicios
+  quienes-somos: Nosotras
   donar: DONAR

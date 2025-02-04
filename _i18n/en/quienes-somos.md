@@ -1,13 +1,15 @@
 
-We are María Belén and Micaela, a dynamic duo of professionals and cat lovers. Our passion and interest in audiovisual and literary fields has brought us together. Our academic backgrounds and experiences have given us a broad set of skills and a meaningful approach to meet diverse translation needs. 
+Hello! We are María Belén and Micaela. 
 
 We are a team passionate about words, stories, and art. We specialize in providing linguistic services tailored to the audiovisual, literary, and independent artistic world, collaborating with creators who aim to transcend borders and connect with global audiences.
+
+Our academic backgrounds and experiences have given us a broad set of skills and a meaningful approach to meet diverse translation needs. 
 
 We believe in the power of creativity and artistic expression as vehicles for cultural transformation. That’s why we work hand-in-hand with artists, writers, filmmakers, independent publishers, and production companies to bring unique and authentic projects to life.
 
 ---
 
-**MARÍA BELÉN ANELLI** (she) 
+**MARÍA BELÉN ANELLI** (she/her) 
 
 has a background in Literature from University of Buenos Aires.
 
@@ -17,7 +19,7 @@ María’s expertise extends to the editing and audiovisual fields, providing an
 
 ---
 
-**MICAELA MARTÍNEZ** (she) 
+**MICAELA MARTÍNEZ** (she/her) 
 
 holds a degree in Labor Relations from University of Buenos Aires and a Teaching degree.
 

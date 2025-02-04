@@ -3,22 +3,21 @@ site:
   description: EN<>SP | Audiovisual and Literary Translation | Editing, Subtitling and Correction
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "/home", title: "^^~"}
   - {url: "/about-us", title: "About us"}
-  - {url: "/services", title: "Our services"}
+  - {url: "/services", title: "Services"}
   - {url: "/manifesto-en", title: "Manifesto"}
   - {url: "/portfolio-en", title: "Portfolio"}
   - {url: "/blog", title: "Blog"}
-  - {url: "/contact", title: "Contact us"}
+  - {url: "/contact", title: "Contact"}
   - {url: "/DONATE", title: "DONATE"}
 
 pages:
-  contacto: Contact us
+  contacto: Contact
   blog: Blog
   home: ^^~
   manifiesto: Manifesto
   portfolio: Portfolio
-  que-ofrecemos: Our services
+  que-ofrecemos: Services
   quienes-somos: About us
   portfolio: Portfolio
   donate: DONATE

@@ -1,14 +1,4 @@
----
-title: pages.DONAR
-layout: page
-namespace: DONAR
-permalink: /DONAR/
-permalink_en: /DONAR/
----
-
-{% tf DONAR.md %}
-
-**📚 Ayudanos a Publicar Nuestra Primera Traducción de Poesía Contemporánea ✨**
+**Ayudanos a Publicar Nuestra Primera Traducción de Poesía Contemporánea**
 
 Desde *The Cat Traducciones* y la editorial argentina *Litoral Dark* lanzamos nuestro primer proyecto de traducción y publicación: una edición independiente y autogestiva para acercar al público hispanohablante la obra de una destacada poeta contemporánea.
 
@@ -20,4 +10,4 @@ Para donar y colaborar:
 
 🎁 Sé parte del libro: Escribinos a [info@thecat.ar](mailto:info@thecat.ar) tras donar, indicando tu donación, nombre y cómo quisieras figurar en los agradecimientos.
 
-*¡Gracias por apoyar la traducción y edición independiente!* ✨
+*¡Gracias por apoyar la traducción y edición independiente!* 

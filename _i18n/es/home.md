@@ -1,4 +1,4 @@
-#### **Por qué elegirnos
+#### **Por qué elegirnos**
 
 *Compromiso con lo artístico*: Entendemos el lenguaje del arte y trabajamos para amplificar su impacto.
 

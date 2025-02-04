@@ -10,7 +10,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "/portfolio-en", title: "Portfolio"}
   - {url: "/blog", title: "Blog"}
   - {url: "/contact", title: "Contact us"}
-  - {url: "/donate", title: "DONATE"}
+  - {url: "/DONATE", title: "DONATE"}
 
 pages:
   contacto: Contact us

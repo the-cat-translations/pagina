@@ -1,12 +1,9 @@
+Creemos en el poder del arte para transformar, desafiar y conectar.
 
----
+**El arte como lenguaje** – No solo traducimos; interpretamos, preservando la esencia de cada obra.
 
-**Por qué elegirnos**
+**Narrativas creativas con impacto** – Creamos adaptaciones que quedan resonando.
 
-*Compromiso con lo artístico*: Entendemos el lenguaje del arte y trabajamos para amplificar su impacto.
+**Una plataforma para todas las voces** – Apoyamos a artistas, editoriales y creadores independientes, promoviendo obras audaces y desafiantes.
 
-*Especialización en narrativas creativas*: Desde la poesía más íntima hasta los diálogos en pantalla, somos expertos en adaptaciones que emocionan.
-
-*Apoyo al talento emergente*: Nos encanta colaborar con nuevos artistas, editoriales y productores independientes.
-
-*Red global*: Trabajamos con audiencias y equipos internacionales, conectando ideas más allá de las fronteras.
+**Más allá de las fronteras** – Colaboramos globalmente, construyendo puentes entre culturas e ideas.

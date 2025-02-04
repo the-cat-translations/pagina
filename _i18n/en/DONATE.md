@@ -5,9 +5,11 @@ At *The Cat Translations* and the Argentine publisher *Litoral Dark* we are laun
 Your support will make this translation possible, covering rights, editing, design, and printing.
 
 To donate and collaborate:
+
 📌 From Argentina (ARS): [MERCADO PAGO](https://link.mercadopago.com.ar/thecatranslations)
 
 📌 From outside Argentina (USD): [AIRTM](https://airtm.me/micaela1d8tfnfp)
+
 
 🎁 Be part of the book: After donating, email us at [info@thecat.ar](mailto:info@thecat.ar)with your name, donation information and how you'd like to appear in the acknowledgments.
 

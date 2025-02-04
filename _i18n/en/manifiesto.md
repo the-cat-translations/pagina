@@ -1,9 +1,9 @@
-**WHY CHOOSE US?**
+We believe in the power of art to transform, provoke, and connect.
 
-*Commitment to Art*: We understand the language of art and work to amplify its impact.
+**Art as a language** – We don’t just translate; we interpret, preserving the soul of every piece.
 
-*Expertise in Creative Narratives*: From intimate poetry to screen dialogues, we excel in adaptations that evoke emotion.
+**Creative narratives with impact** – We craft adaptations that resonate.
 
-*Support for Emerging Talent*: We love collaborating with new artists, publishers, and independent producers.
+**A platform for all voices** – We champion new artists, publishers, and independent creators, fostering bold and original work.
 
-*Global Reach*: We work with international audiences and teams, connecting ideas beyond borders.
+**Beyond borders** – We collaborate globally, building bridges between cultures and ideas.

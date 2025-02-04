@@ -2,7 +2,7 @@
 
 ---
 
-Desde *The Cat Traducciones* y la editorial argentina *Litoral Dark* lanzamos nuestro primer proyecto de traducción y publicación: una edición independiente y autogestiva para acercar al público hispanohablante la obra de una destacada poeta contemporánea.
+Desde *The Cat Traducciones* y la editorial argentina *Litoral Dark* lanzamos nuestro primer proyecto de traducción y publicación: una edición independiente y autogestiva para acercar al público hispanohablante la obra de una destacada poeta estadounidense contemporánea.
 
 Tu apoyo hará posible esta traducción, cubriendo derechos, edición, diseño e impresión.
 

@@ -1,14 +1,14 @@
 **Bienvenidxs a The Cat Traducciones**
 
-En *The Cat*, nos dedicamos a la traducción literaria y audiovisual, llevando obras de autores no traducidos al español y conectando culturas a través de la palabra.
+En *The Cat*, nos dedicamos a la traducción literaria y audiovisual, acercando obras de autores no traducidxs al castellano y conectando culturas a través de la palabra.
 
----
 
 Te contamos qué vas a encontrar en cada sección...
 
-**Nosotras** - Conocé al equipo detrás de The Cat. 
 
-**Servicios** - Explorá los servicios de traducción literaria y audiovisual que ofrecemos, y cómo podemos ayudarte.
+**Nosotras** - Conocé al equipo detrás de *The Cat*. 
+
+**Servicios** - Explorá los servicios de traducción literaria y audiovisual que ofrecemos y cómo podemos ayudarte.
 
 **Manifiesto** - Descubrí nuestra visión sobre la traducción y cómo trabajamos.
 

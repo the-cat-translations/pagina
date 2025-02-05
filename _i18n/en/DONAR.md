@@ -16,7 +16,7 @@ To donate and collaborate:
 
 ---
 
-🎁 Be part of the book: After donating, email us at [info@thecat.ar](mailto:info@thecat.ar)with your name, donation information and how you'd like to appear in the acknowledgments.
+🎁 Be part of the book: After donating, email us at [info@thecat.ar](mailto:info@thecat.ar) with your name, donation information and how you'd like to appear in the acknowledgments.
 
 
 *Thank you for supporting translation and independent publishing!*

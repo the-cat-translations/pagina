@@ -1,9 +1,21 @@
 
 ---
 
+**POETRY ANTHOLOGY** - In progress
+
+Edition and translation of poems EN–ES
+
+---
+
 **POETRY BOOK** - In process
 
 Poetry book translation EN-SP
+
+---
+
+**EN LISTA DE ESPERA BY VICTORIA DE MICHELE Y MARIELA DI NARO**
+
+Supervision of CC subtitles for documentary
 
 ---
 

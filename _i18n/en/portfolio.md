@@ -3,7 +3,7 @@
 
 **THE BRILLIANT, POETRY ANTHOLOGY** - In progress
 
-Edition and translation of poems EN–ES
+Edition and translation of poems EN–SP
 
 ---
 

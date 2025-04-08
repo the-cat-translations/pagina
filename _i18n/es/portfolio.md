@@ -7,12 +7,12 @@ Edición y traducción de poemas EN-ES
 
 ---
 
-**EN LISTA DE ESPERA DE VICTORIA DE MICHELE Y MARIELA DI NARO**
+**EN LISTA DE ESPERA, DE VICTORIA DE MICHELE Y MARIELA DI NARO**
 
 Supervisión de subtítulos CC de documental
 
 ---
-**DUCHITA DE LOLA GRANILLO**
+**DUCHITA. DE LOLA GRANILLO**
 
 Subtitulado de cortometraje ES-EN
 

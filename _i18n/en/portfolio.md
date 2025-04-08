@@ -1,19 +1,19 @@
 
 ---
 
-**THE BRILLIANT POETRY ANTHOLOGY** - In progress
+**THE BRILLIANT, POETRY ANTHOLOGY** - In progress
 
 Edition and translation of poems EN–ES
 
 ---
 
-**EN LISTA DE ESPERA BY VICTORIA DE MICHELE Y MARIELA DI NARO**
+**EN LISTA DE ESPERA, BY VICTORIA DE MICHELE Y MARIELA DI NARO**
 
 Supervision of CC subtitles for documentary
 
 ---
 
-**DUCHITA BY LOLA GRANILLO**
+**DUCHITA, BY LOLA GRANILLO**
 
 Short film subtitling SP-EN
 

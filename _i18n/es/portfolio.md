@@ -1,15 +1,9 @@
 
 ---
 
-**ANTOLOGÍA POÉTICA** - En proceso
+**THE BRILLIANT, ANTOLOGÍA POÉTICA** - En proceso
 
 Edición y traducción de poemas EN-ES 
-
----
-
-**POEMARIO** - En proceso
-
-Traducción de poemario EN-ES
 
 ---
 

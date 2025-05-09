@@ -12,7 +12,7 @@ Edición y traducción de poemas EN-ES
 Supervisión de subtítulos CC de documental
 
 ---
-**DUCHITA. DE LOLA GRANILLO**
+**DUCHITA, DE LOLA GRANILLO**
 
 Subtitulado de cortometraje ES-EN
 

@@ -7,6 +7,12 @@ Edición y traducción de poemas EN-ES
 
 ---
 
+**DISITANGO: UN ABRAZO FEMINISTA, DE VALÉRIE LOEWENSBERG**
+
+Subtitulado descriptivo CC de documental
+
+---
+
 **EN LISTA DE ESPERA, DE VICTORIA DE MICHELE Y MARIELA DI NARO**
 
 Supervisión de subtítulos CC de documental

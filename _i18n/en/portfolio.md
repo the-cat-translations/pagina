@@ -7,6 +7,12 @@ Edition and translation of poems EN–SP
 
 ---
 
+**DISITANGO: UN ABRAZO FEMINISTA, BY VALÉRIE LOEWENSBERG**
+
+Documentary descriptive CC subtitling SP
+
+---
+
 **EN LISTA DE ESPERA, BY VICTORIA DE MICHELE Y MARIELA DI NARO**
 
 Supervision of CC subtitles for documentary
